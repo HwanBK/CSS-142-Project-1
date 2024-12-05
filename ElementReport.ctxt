@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ElementReport
+comment0.text=\r\n\ Creates\ a\ report\ of\ the\ first\ twenty\ elements\ from\ the\ periodic\ table.\r\n\ @CSC\ 142\ -\ Project\ 1\r\n\ @Hwansu\ Kim\ (Billy)\r\n\ @01/07/22\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=atomNum\ eleSym\ eleName\ abunRank
+comment2.target=void\ printElement(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=atomicNumber
+comment3.target=void\ printNumber(java.lang.String)
+comment4.params=elementSymbol
+comment4.target=void\ printSymbol(java.lang.String)
+comment5.params=elementName
+comment5.target=void\ printName(java.lang.String)
+comment6.params=atomicWeight
+comment6.target=void\ printAbundanceHistogram(int)
+numComments=7

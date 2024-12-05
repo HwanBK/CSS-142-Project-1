@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Limits
+comment0.text=\r\n\ Finds\ the\ limit\ of\ loan\ payments\ in\ regards\ to\ number\ of\ payments.\r\n\ @CSC\ 142\ -\ Project\ 1\ Extra\ Credit\r\n\ @Hwansu\ Kim\ (Billy)\r\n\ @01/10/22\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
